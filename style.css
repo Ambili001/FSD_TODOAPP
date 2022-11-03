@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: linear-gradient(to bottom right, lightblue, purple);
+}
+.navbar
+{
+    color: white;
+    background-color: black;
+    font-family:serif ;}
+.my_login{
+    margin-left: 15cm;
+    margin-right: 15cm;
+    margin-top: 3cm;
+    border: 2px solid white;
+    background-color: white;
+    padding: 10px;
+    height: 22em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.my_login #button{
+background-color: purple;
+border: black;
+font-family: serif;
+}
+.nav-item a{
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+#demo
+{
+    margin: 50px;
+    text-align: justify;
+}
+#demo td{
+    padding: 10px;
+}
